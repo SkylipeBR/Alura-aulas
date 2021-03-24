@@ -1,0 +1,58 @@
+.body { /** conteudo da pagina **/
+
+	background-color: black;
+	background: black;
+	font-family: "Roboto Mono" , monoespaço;
+	min-height: 400px;
+	background-size: 100vh;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+
+
+}
+
+.topo {
+/** parte dos tirulos e descrições **/
+
+	text-align: center;
+	fill: 20px;
+	height: 100vh;
+}
+
+.titulo {
+/** titulo */
+	color: #ffffff;
+	size: 50px
+	margin: 0 5px 5px;
+
+}
+
+.descricao {
+/* Descrição da  Pagina */
+	color: #ffffff;
+	margin-top: 5px;
+
+}
+
+.page-logo {
+/* em baixo do titulo tem uma logo "IMERSÃO DEV", ajuste dele */
+	width: 200px;
+
+}
+
+.alura-logo {
+
+	width: 400px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	background-color: #000000;
+
+}
+
+.sitealura {
+
+	background: url("https://www.alura.com.br/curso-online-html5-css3-primeiros-passos");
+
+
+}
